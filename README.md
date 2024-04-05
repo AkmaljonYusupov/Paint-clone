@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[Paint clone (https://paint-javascript.netlify.app)
+[Paint clone](https://paint-javascript.netlify.app)
 
   
   

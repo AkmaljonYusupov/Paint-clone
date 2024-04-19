@@ -6,7 +6,9 @@
 
 <h2>🚀 Demo</h2>
 
-[Paint clone](https://paint-javascript.netlify.app)
+[#1.netlify.app free hosting Paint clone](https://paint-javascript.netlify.app)
+[#2.vercel.app free hosting Paint clone](https://paint-demo.vercel.app)
+
  
 <h2>💻 Ishlatilgan texnologiyalar bilan tanishing</h2>
 

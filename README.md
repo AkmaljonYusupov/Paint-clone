@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[#1.netlify.app free hosting Paint clone](https://paint-javascript.netlify.app)
+[#1.netlify.app free hosting Paint clone](https://paint-javascript.netlify.app) <br>
 [#2.vercel.app free hosting Paint clone](https://paint-demo.vercel.app)
 
  
